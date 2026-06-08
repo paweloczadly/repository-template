@@ -6,8 +6,8 @@
 ## Table of contents
 
 * [Contributing](#contributing)
-* [FAQ](#faq)
 * [License](#license)
+* [FAQ](#faq)
 * [Author](#author)
 
 ## 🤝 Contributing
